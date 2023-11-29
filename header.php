@@ -1,6 +1,6 @@
 <?php
 
-// navneet is best btw
+// navneet is best 
 include "config.php";
 $page = basename($_SERVER['PHP_SELF']);
 switch ($page) {
